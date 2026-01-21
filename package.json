@@ -1,5 +1,6 @@
 {
-  "name": "llm-workshop-app",
+  "name": "llm-workshop-agent",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -7,6 +8,10 @@
   },
   "dependencies": {
     "dotenv": "^16.4.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "langchain": "^0.1.0",
+    "@langchain/openai": "^0.0.14",
+    "@langchain/core": "^0.1.28",
+    "zod": "^3.22.4"
   }
 }

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "A12",
+    "name": "Ana García",
+    "company": "TechSolutions",
+    "tutor": "Carlos M.",
+    "objectives": "Dominar el uso de Agentes AI y Tool Calling con LangChain"
+  },
+  {
+    "id": "B05",
+    "name": "Juan Pérez",
+    "company": "DataCorp",
+    "tutor": "Laura S.",
+    "objectives": "Mejorar en arquitecturas RAG, Vector Stores y Embeddings"
+  },
+  {
+    "id": "C99",
+    "name": "María López",
+    "company": "Innovatech",
+    "tutor": "Carlos M.",
+    "objectives": "Entender la arquitectura de LLMs en producción y Fine-tuning"
+  },
+  {
+    "id": "D10",
+    "name": "Pedro Rodríguez",
+    "company": "Freelance",
+    "tutor": "Laura S.",
+    "objectives": "Crear un asistente personal para gestión de tiempo y productividad"
+  },
+  {
+    "id": "E23",
+    "name": "Lucía Fernández",
+    "company": "CloudSystems",
+    "tutor": "David R.",
+    "objectives": "Certificación en AWS y despliegue de modelos de IA en la nube"
+  },
+  {
+    "id": "F45",
+    "name": "Miguel Ángel Torres",
+    "company": "StartUp X",
+    "tutor": "Ana P.",
+    "objectives": "Desarrollo Frontend avanzado con React y optimización de rendimiento"
+  },
+  {
+    "id": "G67",
+    "name": "Sofía Ruiz",
+    "company": "Fintech Bank",
+    "tutor": "David R.",
+    "objectives": "Seguridad en aplicaciones bancarias y detección de fraude con ML"
+  },
+  {
+    "id": "H89",
+    "name": "Javier Mendez",
+    "company": "EduTech",
+    "tutor": "Carlos M.",
+    "objectives": "Creación de tutores virtuales adaptativos para educación infantil"
+  },
+  {
+    "id": "I01",
+    "name": "Elena White",
+    "company": "Global Media",
+    "tutor": "Laura S.",
+    "objectives": "Automatización de generación de contenidos y pipelines de CI/CD"
+  },
+  {
+    "id": "J11",
+    "name": "Roberto Díaz",
+    "company": "Logistics Pro",
+    "tutor": "Ana P.",
+    "objectives": "Optimización de rutas logísticas usando algoritmos genéticos y Python"
+  }
+]

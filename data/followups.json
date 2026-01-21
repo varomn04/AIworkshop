@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1768992660549,
+    "student_id": "A12",
+    "title": "Revisar notas de la semana",
+    "priority": "medium",
+    "created_at": "2026-01-21T10:51:00.549Z"
+  },
+  {
+    "id": 1768992715683,
+    "student_id": "A12",
+    "title": "Crear archivo JS",
+    "priority": "medium",
+    "created_at": "2026-01-21T10:51:55.683Z"
+  },
+  {
+    "id": 1768993331697,
+    "student_id": "B05",
+    "title": "Crear app con Java",
+    "priority": "medium",
+    "created_at": "2026-01-21T11:02:11.697Z"
+  }
+]

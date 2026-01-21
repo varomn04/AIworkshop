@@ -1,0 +1,19 @@
+{
+  "name": "agent_response",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "response": {
+        "type": "string",
+        "description": "La respuesta final textual para el usuario."
+      },
+      "actions_taken": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Lista de nombres de las herramientas utilizadas durante el proceso."
+      }
+    },
+    "required": ["response", "actions_taken"],
+    "additionalProperties": false
+  }
+}

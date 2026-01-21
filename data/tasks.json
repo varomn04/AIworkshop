@@ -1,0 +1,90 @@
+[
+  {
+    "student_id": "A12",
+    "week_id": "2026-W02",
+    "tasks": [
+      { "id": 1, "title": "Leer documentación de LangChain", "status": "done" },
+      { "id": 2, "title": "Implementar loop agéntico manual", "status": "pending" },
+      { "id": 3, "title": "Diseñar esquema de respuesta JSON", "status": "pending" }
+    ]
+  },
+  {
+    "student_id": "B05",
+    "week_id": "2026-W02",
+    "tasks": [
+      { "id": 101, "title": "Configurar Vector Database (Pinecone)", "status": "done" },
+      { "id": 102, "title": "Subir embeddings de prueba", "status": "done" },
+      { "id": 103, "title": "Conectar RAG con API", "status": "in_progress" }
+    ]
+  },
+  {
+    "student_id": "C99",
+    "week_id": "2026-W02",
+    "tasks": [
+      { "id": 201, "title": "Revisar vídeo de la sesión 3: LLMs", "status": "pending" },
+      { "id": 202, "title": "Hacer quiz de evaluación teórica", "status": "pending" },
+      { "id": 203, "title": "Preparar dataset para Fine-tuning", "status": "pending" }
+    ]
+  },
+  {
+    "student_id": "D10",
+    "week_id": "2026-W02",
+    "tasks": [
+      { "id": 301, "title": "Definir MVP del asistente personal", "status": "done" },
+      { "id": 302, "title": "Investigar API de Google Calendar", "status": "done" },
+      { "id": 303, "title": "Crear prototipo en Figma", "status": "done" }
+    ]
+  },
+  {
+    "student_id": "E23",
+    "week_id": "2026-W02",
+    "tasks": [
+      { "id": 401, "title": "Crear cuenta AWS Tier Free", "status": "done" },
+      { "id": 402, "title": "Configurar instancia EC2", "status": "in_progress" },
+      { "id": 403, "title": "Instalar Docker en servidor remoto", "status": "pending" }
+    ]
+  },
+  {
+    "student_id": "F45",
+    "week_id": "2026-W02",
+    "tasks": [
+      { "id": 501, "title": "Refactorizar componentes Legacy", "status": "in_progress" },
+      { "id": 502, "title": "Implementar React Context API", "status": "pending" }
+    ]
+  },
+  {
+    "student_id": "G67",
+    "week_id": "2026-W02",
+    "tasks": [
+      { "id": 601, "title": "Análisis de vulnerabilidades OWASP", "status": "done" },
+      { "id": 602, "title": "Implementar autenticación 2FA", "status": "in_progress" },
+      { "id": 603, "title": "Revisar logs de acceso", "status": "pending" }
+    ]
+  },
+  {
+    "student_id": "H89",
+    "week_id": "2026-W02",
+    "tasks": [
+      { "id": 701, "title": "Diseñar grafo de conversación para niños", "status": "done" },
+      { "id": 702, "title": "Testear voces sintéticas amigables", "status": "done" },
+      { "id": 703, "title": "Integrar API de Text-to-Speech", "status": "done" }
+    ]
+  },
+  {
+    "student_id": "I01",
+    "week_id": "2026-W02",
+    "tasks": [
+      { "id": 801, "title": "Configurar GitHub Actions", "status": "in_progress" },
+      { "id": 802, "title": "Script de generación de posts automáticos", "status": "pending" }
+    ]
+  },
+  {
+    "student_id": "J11",
+    "week_id": "2026-W02",
+    "tasks": [
+      { "id": 901, "title": "Limpieza de datos logísticos (CSV)", "status": "done" },
+      { "id": 902, "title": "Implementar algoritmo de Dijkstra", "status": "in_progress" },
+      { "id": 903, "title": "Visualizar rutas óptimas con Matplotlib", "status": "pending" }
+    ]
+  }
+]
